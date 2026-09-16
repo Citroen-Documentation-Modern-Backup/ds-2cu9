@@ -1,0 +1,48 @@
+{
+ "ref": "031001124380A",
+ "refDisplay": "0310 01 124380A",
+ "title": "SOUPAPES GUIDES CULBUTEURS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6E&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6F&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9E&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9F&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4E&B0F=B0FDH",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDH",
+   "fctId": "FCT0006"
+  }
+ ]
+}

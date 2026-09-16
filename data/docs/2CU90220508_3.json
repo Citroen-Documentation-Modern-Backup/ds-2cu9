@@ -1,0 +1,329 @@
+{
+ "ref": "2CU90220508_3",
+ "refDisplay": "2CU9 0 22 0508",
+ "title": "TUBE C/C SUPERIEUR DE RADIATEUR",
+ "nature": "",
+ "applicability": "(J0DM) JUMPER III CABINE MOTRICE TYPE 20H DIESEL TURBO F 30DT FAP EURO5 155CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6G&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9G&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9H&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8F&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8G&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8H&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8H&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6W&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Z&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Z&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Z&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4Z&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4Z&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Y&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Y&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5J&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5K&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5L&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5M&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5M&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D61&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5O&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5O&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3E&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3J&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3M&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7L&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7O&B0F=B0FDN",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7P&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5X&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D53&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6R&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6S&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8R&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8S&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8S&B0F=B0FDJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8S&B0F=B0FDS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6U&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6V&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8U&B0F=B0FDF",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8V&B0F=B0FDF",
+   "fctId": "FCT0009"
+  }
+ ]
+}

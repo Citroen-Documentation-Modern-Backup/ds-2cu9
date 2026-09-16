@@ -1,0 +1,83 @@
+{
+ "ref": "031003442006A",
+ "refDisplay": "0310 03 442006A",
+ "title": "CREMAILLERE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE VARIABLE ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6E&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6E&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6F&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6F&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9E&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9E&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9F&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9F&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4E&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4E&B0F=B0FDH",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDH",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDH",
+   "fctId": "FCT0339"
+  }
+ ]
+}

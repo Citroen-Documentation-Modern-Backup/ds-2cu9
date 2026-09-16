@@ -1,0 +1,124 @@
+{
+ "ref": "2CU9044990B4",
+ "refDisplay": "2CU9 0 449 90B4",
+ "title": "BRIN CEINTURE ARRIERE",
+ "nature": "",
+ "applicability": "(J011) JUMPER III CHASSIS DOUBLE CABINE LONG TYPE 16H DIESEL TURBO PUMA 22DT 120CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDG",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDG",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDQ",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDQ",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDR",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDR",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDF",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDF",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDJ",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDJ",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDS",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDS",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDQ",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDQ",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0952"
+  }
+ ]
+}

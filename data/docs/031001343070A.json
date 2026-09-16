@@ -1,0 +1,138 @@
+{
+ "ref": "031001343070A",
+ "refDisplay": "0310 01 343070A",
+ "title": "DIFFERENTIEL BVM",
+ "nature": "",
+ "applicability": "BV M40 CV6 FIAT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0E&B0F=B0FDE",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0E&B0F=B0FDP",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0E&B0F=B0FDG",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0E&B0F=B0FDF",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDG",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDQ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDR",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDF",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDJ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDS",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDG",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDQ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDR",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDN",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDF",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDJ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDS",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDG",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDQ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDR",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDF",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDJ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDL",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDS",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "ref": "031008931061D",
+ "refDisplay": "0310 08 931061D",
+ "title": "ARMATURE ASSISE INTERMEDIAIRE",
+ "nature": "",
+ "applicability": "BUS NIVEAU 5 ET SIEGE DROIT SAUF VEHICULE POUR TRANS CAB APPROF",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDG",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDQ",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDR",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDF",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDJ",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDS",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDQ",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDF",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDS",
+   "fctId": "FCT0224"
+  }
+ ]
+}

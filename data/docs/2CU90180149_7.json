@@ -1,0 +1,29 @@
+{
+ "ref": "2CU90180149_7",
+ "refDisplay": "2CU9 0 18 0149",
+ "title": "CARTOUCHE FILTRE A HUILE",
+ "nature": "",
+ "applicability": "(J0E5) JUMPER III FOURGON RALLONGE H3 TYPE 20H DIESEL TURBO F 30DT FAP EURO5 155CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7P&B0F=B0FDL",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDL",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0008"
+  }
+ ]
+}

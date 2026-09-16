@@ -1,0 +1,54 @@
+{
+ "ref": "2CU903427546_3",
+ "refDisplay": "2CU9 0 342 7546",
+ "title": "LONGERON BAS DE CAISSE+RAIL ASSEMBLE",
+ "nature": "",
+ "applicability": "(J05J) JUMPER III FOURGON MOYEN H1 TYPE 12 DIESEL TURBO F 30DT SANS FAP BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3D&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3E&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3F&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3I&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3J&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3K&B0F=B0FDF",
+   "fctId": "FCT0127"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDF",
+   "fctId": "FCT0127"
+  }
+ ]
+}

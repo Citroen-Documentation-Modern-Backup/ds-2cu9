@@ -1,0 +1,78 @@
+{
+ "ref": "031007748710B",
+ "refDisplay": "0310 07 748710B",
+ "title": "VITRE LATERALE MECANISME ENJOLIVEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDG",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDQ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDR",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDF",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDJ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDS",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDQ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDF",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDS",
+   "fctId": "FCT0130"
+  }
+ ]
+}

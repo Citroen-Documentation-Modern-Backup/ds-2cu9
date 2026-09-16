@@ -1,0 +1,74 @@
+{
+ "ref": "2CU90730365_4",
+ "refDisplay": "2CU9 0 73 0365",
+ "title": "ELECTROVANNE DE REGULATION EGR",
+ "nature": "",
+ "applicability": "(J0BJ) JUMPER III CABINE MOTRICE TYPE 16 DIESEL TURBO PUMA 22DT 130CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6E&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6F&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9E&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9F&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4E&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDH",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDG",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDG",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4A&B0F=B0FDG",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDG",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDG",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CU90990216_3",
+ "refDisplay": "2CU9 0 99 0216",
+ "title": "FINITION SUR MOTEUR",
+ "nature": "",
+ "applicability": "(J06E) JUMPER III FOURGON SEMI VITRE MOYEN H2 TYPE 16 DIESEL TURBO F 30DT SANS FAP BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDF",
+   "fctId": "FCT0049"
+  }
+ ]
+}

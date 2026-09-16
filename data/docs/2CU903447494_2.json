@@ -1,0 +1,19 @@
+{
+ "ref": "2CU903447494_2",
+ "refDisplay": "2CU9 0 344 7494",
+ "title": "PANNEAU LATERAL AV",
+ "nature": "",
+ "applicability": "(J05Y) JUMPER III PLANCHER NU LONG TYPE 16 DIESEL TURBO F 30DT SANS FAP BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6T&B0F=B0FDF",
+   "fctId": "FCT0129"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "ref": "031007748705B",
+ "refDisplay": "0310 07 748705B",
+ "title": "VITRE LATERALE MECANISME ENJOLIVEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDE",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDP",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDG",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDQ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDR",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDF",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDJ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDS",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDE",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDP",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDG",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDQ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDR",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDF",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDJ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDS",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDE",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDP",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDG",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDQ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDR",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDF",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDJ",
+   "fctId": "FCT0130"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDS",
+   "fctId": "FCT0130"
+  }
+ ]
+}

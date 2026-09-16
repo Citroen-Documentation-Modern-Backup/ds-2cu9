@@ -1,0 +1,54 @@
+{
+ "ref": "2CU90110235_4",
+ "refDisplay": "2CU9 0 11 0235",
+ "title": "CULASSE NUE DROITE OU AVANT",
+ "nature": "",
+ "applicability": "(J0KF) JUMPER III CHASSIS CABINE MOYEN TYPE 16 DIESEL TURBO F 30DT EURO5 175CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4G&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4H&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4A&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDS",
+   "fctId": "FCT0006"
+  }
+ ]
+}

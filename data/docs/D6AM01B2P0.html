@@ -1,0 +1,158 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">D6AM01B2P0</td><td class="title">Télécodage : Boîtier de servitude intelligent</td></tr></tbody></table></div><div id="appl" class="section_appl"></div><div class="section_corps" id="content"><div class="cha1"><a name="LABEL68"></a><div class="sti1">1. Véhicule concerné</div></div>
+<div class="par">CITROËN JUMPER 3 ; CITROËN JUMPER 3 (Minibus) ; CITROËN JUMPER 3&nbsp;(EURO 5).</div><div class="par">À partir de la version de télémise à jour Diagbox 6.26.</div><div class="cha1"><a name="LABEL35"></a><div class="sti1">2. Sommaire</div></div>
+<div class="par"><a href="#LABEL36" class="lienHyperTexte">Consignes de sécurité</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL4" class="lienHyperTexte">Opérations préliminaires</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL67" class="lienHyperTexte">Télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="tli"><a href="#LABEL18" class="lienHyperTexte">Tableaux de télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  : 
+<ul>
+<li><a href="#LABEL90" class="lienHyperTexte">Alignement du télécodage des calculateurs sur la configuration télécodée dans le BSI</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li><a href="#LABEL91" class="lienHyperTexte">Alarme</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL36"></a><div class="sti1">3. Consignes de sécurité</div></div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : L’opération de télécodage est une opération sensible qui a des conséquences directes sur le bon fonctionnement du véhicule. </div></div>
+<div class="tli">Un mauvais télécodage peut avoir des impacts sur : 
+<ul>
+<li>La sécurité (désactivation de dispositifs de protection du véhicule)</li>
+<li>Le fonctionnement global du véhicule (perte complète de fonctions du véhicule ou dégradation de celles-ci)</li>
+<li>Le diagnostic du véhicule (Remontée de code défauts pouvant mettre en échec les méthodes de diagnostic de l’outil et conduire à des remplacements de pièces injustifiées)</li>
+</ul>
+</div>
+<div class="tli">Avant toute tentative de démarrage du moteur : 
+<ul>
+<li>Contrôler que le frein de stationnement est activé</li>
+<li>En présence d’une boîte de vitesses automatique, contrôler que le levier de vitesses est en position "P" (Park)</li>
+<li>En présence d’une boîte de vitesses manuelle, contrôler que le levier de vitesses est au point mort</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL4"></a><div class="sti1">4. Opérations préliminaires</div></div>
+<div class="tli">Avant toute intervention : 
+<ul>
+<li>Établir la communication avec le calculateur, à l’aide de l’outil de diagnostic</li>
+<li>Imprimer l’ensemble des écrans de l’outil de diagnostic indiquant les valeurs des paramètres de télécodage, ou noter ces valeurs manuellement</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL67"></a><div class="sti1">5. Télécodage</div></div>
+<div class="tli">En cas de télécodage du calculateur : 
+<ul>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le télécodage du calculateur</li>
+<li>Vérifier le télécodage</li>
+</ul>
+</div>
+<div class="tli">En cas de téléchargement d’un calculateur : 
+<ul>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le téléchargement</li>
+<li>Effectuer le télécodage du calculateur</li>
+<li>Vérifier le télécodage</li>
+<li>Effectuer les opérations d’apprentissage&nbsp;(si nécessaire)</li>
+</ul>
+</div>
+<div class="tli">En cas de remplacement d’un calculateur : 
+<ul>
+<li>Monter le calculateur neuf</li>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le téléchargement</li>
+<li>Effectuer le télécodage du calculateur</li>
+<li>Vérifier le télécodage</li>
+<li>Effectuer les opérations d’apprentissage&nbsp;(si nécessaire)</li>
+</ul>
+</div>
+<div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Pour réaliser les opérations d’apprentissage, le code confidentiel et toutes les clés du véhicule sont nécessaires. </div></div>
+<div class="tli">Après avoir effectué les apprentissages, contrôler les paramètres suivants : 
+<ul>
+<li>Calculateur contrôle moteur programmé (et appairé) : Ce paramètre doit être à l’état "oui"</li>
+<li>Calculateur contrôle moteur déverrouillé : Ce paramètre doit être à l’état "oui"</li>
+<li>Le paramètre "nombre de clés apprises" doit être à la valeur "xx" (nombre total des clés du véhicule)</li>
+<li>Authentification correcte du transpondeur de la clé : Ce paramètre doit être à l’état "oui" (Pour chaque clé de contact)</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL18"></a><div class="sti1">6. Tableaux de télécodage</div></div>
+<div class="rem"><div class="att"><span class="maj">ATTENTION</span> : L’affichage des paramètres de télécodage est conditionné par leur présence dans le logiciel du boîtier de servitude intelligent. Les paramètres seront affichés par l’outil de diagnostic, partiellement ou en totalité selon la version du logiciel du boîtier de servitude intelligent. </div></div>
+<div class="tli">Après avoir sélectionné le menu "télécodage manuel", les menus suivants sont disponibles : 
+<ul>
+<li><a href="#LABEL90" class="lienHyperTexte">Alignement du télécodage des calculateurs sur la configuration télécodée dans le BSI</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li><a href="#LABEL91" class="lienHyperTexte">Alarme</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+</ul>
+</div>
+<div class="cha2"><a name="LABEL90"></a><div class="sti2">6.1. Alignement du télécodage des calculateurs sur la configuration télécodée dans le BSI</div></div>
+<div class="par">Le véhicule JUMPER 3 intègre une gestion spécifique des données de télécodage (Configuration du véhicule).</div><div class="tli">Le boîtier de servitude intelligent (BSI) mémorise les différentes valeurs des paramètres de télécodage correspondants au véhicule, ils sont dupliqués (en tout ou partie) dans les calculateurs suivants : 
+<ul>
+<li>Combiné</li>
+<li>Coussin gonflable</li>
+<li>Climatisation </li>
+<li>Boîtier télématique </li>
+</ul>
+</div>
+<div class="par">La duplication des valeurs des paramètres de télécodage est réalisée par le boîtier de servitude intelligent (BSI), sur l’ordre d’un outil de diagnostic, cette fonction est appelée "alignement des données de télécodage".</div><div class="par">L’alignement des données de télécodage est réalisé en usine en fin de montage du véhicule, il doit être également réalisé lors de chaque remplacement des calculateurs concernés.</div><div class="rem"><div class="not"><span class="maj">NOTA</span> : Il n’y a pas de limitation du nombre d’alignement des données de télécodage. </div></div>
+<div class="par">À chaque mise du contact, le boîtier de servitude intelligent contrôle l’état de télécodage de l’ensemble de ces calculateurs : La présence d’anomalies de télécodage sur l’un des calculateurs se traduit au combiné par l’affichage clignotant du compteur kilométrique et de la date.</div><div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Compte-tenu de cette gestion du télécodage, les outils de diagnostic ne donnent pas accès aux paramètres de télécodage des différents calculateurs à l’exception du boîtier de servitude intelligent (BSI) (accès en lecture seule). Seul un boîtier de servitude intelligent télécodé est commercialisé par le "Service des Pièces de Rechange". </div></div>
+<div class="par">Cette procédure permet ainsi d’aligner l’un après l’autre le télécodage des calculateurs combiné, coussin gonflable, climatisation (si présent) et boîtier télématique (si présent) sur la configuration présente dans le boîtier de servitude intelligent lorsque c’est nécessaire, notamment lors du remplacement d’un calculateur.</div><div class="par">Seuls les calculateurs qui utilisent la configuration télécodée dans le BSI, et qui doivent aligner leur télécodage sur la configuration du BSI sont listés dans cet écran.</div><div class="rem"><div class="not"><span class="maj">NOTA</span> : Le lancement de la procédure s’effectue par un appui sur la touche "Télécodage". Suivre les indications de l’outil diagnostic. </div></div>
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="4">Alignement du télécodage des calculateurs sur la configuration télécodée dans le BSI</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">États du paramètre</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Combiné</td>
+<td colspan="1" rowspan="1">Oui</td>
+<td colspan="1" rowspan="8">Un " oui " est affiché pour les calculateurs nécessitant un alignement de leur télécodage sur la configuration télécodée dans le BSI (Différence de télécodage entre un calculateur et le boîtier de servitude intelligent)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Coussin gonflable</td>
+<td colspan="1" rowspan="1">Oui</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Climatisation </td>
+<td colspan="1" rowspan="1">Oui</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Boîtier télématique </td>
+<td colspan="1" rowspan="1">Oui</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><a name="LABEL91"></a><div class="sti2">6.2. Alarme</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="4">Alarme</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeur à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Présence d’une alarme</td>
+<td colspan="1" rowspan="1">Oui</td>
+<td colspan="1" rowspan="2">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Véhicule muni d’une (ou plusieurs) télécommande haute fréquence</td>
+<td colspan="1" rowspan="1">Oui</td>
+<td colspan="1" rowspan="2">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Déclenchement de l’alarme</td>
+<td colspan="1" rowspan="1">Avec allumage des clignotants</td>
+<td colspan="1" rowspan="2">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Sans allumage des clignotants</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Verrouillage / déverrouillage du véhicule à la télécommande haute fréquence</td>
+<td colspan="1" rowspan="1">Avec allumage des clignotants</td>
+<td colspan="1" rowspan="2">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Sans allumage des clignotants</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Superverrouillage des serrures</td>
+<td colspan="1" rowspan="1">Oui</td>
+<td colspan="1" rowspan="2">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Non</td>
+</tr><tr valign="top"><td colspan="1" rowspan="6"></td>
+<td colspan="1" rowspan="6">Type d’alarme (pays)</td>
+<td colspan="1" rowspan="1">Pas d’alarme</td>
+<td colspan="1" rowspan="6">(1)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Communauté européenne (hors Belgique, Royaume Uni et Pays-bas)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Royaume uni</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Belgique</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Pays-Bas</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Tous pays sauf communauté européenne</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div></div>

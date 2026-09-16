@@ -1,0 +1,498 @@
+{
+ "ref": "031007746650A",
+ "refDisplay": "0310 07 746650A",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE GAUCHE",
+ "nature": "",
+ "applicability": "SANS PORTE LATERALE COULISSANTE OU PORTE LAT D COULISSANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1D&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1E&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1F&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1I&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1K&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D14&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D15&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1C&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1C&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1R&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1S&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDE",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDP",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDG",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDR",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDF",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDJ",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1T&B0F=B0FDS",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1V&B0F=B0FDQ",
+   "fctId": "FCT0129"
+  }
+ ]
+}

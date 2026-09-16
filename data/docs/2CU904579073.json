@@ -1,0 +1,39 @@
+{
+ "ref": "2CU904579073",
+ "refDisplay": "2CU9 0 457 9073",
+ "title": "GARNITURE DE PASSAGE DE ROUE AR",
+ "nature": "",
+ "applicability": "(J0DD) JUMPER III FOURGON VITRE RALLONGE H2 TYPE 20H DIESEL TURBO PUMA 22DT 120CV BVM6 OU (J0C1) JUMPER III FOURGON VITRE RALLONGE H2 TYPE 20H DIESEL TURBO PUMA 22DT 120CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDQ",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDJ",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0234"
+  }
+ ]
+}

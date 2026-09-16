@@ -1,0 +1,89 @@
+{
+ "ref": "2CU904961119_3",
+ "refDisplay": "2CU9 0 496 1119",
+ "title": "GALET ENROULEUR COURROIE ALTERNAT",
+ "nature": "",
+ "applicability": "(J0IW) JUMPER III CHASSIS CABINE LONG TYPE 16H DIESEL TURBO F 30DT FAP EURO5 145CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6G&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8F&B0F=B0FDJ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8G&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Y&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5L&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5O&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7L&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7O&B0F=B0FDN",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDJ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDJ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDL",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDJ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0303"
+  }
+ ]
+}

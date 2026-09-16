@@ -1,0 +1,7411 @@
+{
+ "ldp": "2CU9",
+ "label": "JUMPER III",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0D0E",
+     "lib": "CABINE MOTRICE TYPE 14"
+    },
+    {
+     "val": "B0D0F",
+     "lib": "CABINE MOTRICE TYPE 16"
+    },
+    {
+     "val": "B0D0G",
+     "lib": "CABINE MOTRICE TYPE 16H"
+    },
+    {
+     "val": "B0D0H",
+     "lib": "CABINE MOTRICE TYPE 20H"
+    },
+    {
+     "val": "B0D2D",
+     "lib": "CHASSIS CABINE COURT TYPE 12"
+    },
+    {
+     "val": "B0D2E",
+     "lib": "CHASSIS CABINE COURT TYPE 14"
+    },
+    {
+     "val": "B0D2F",
+     "lib": "CHASSIS CABINE COURT TYPE 16"
+    },
+    {
+     "val": "B0D6E",
+     "lib": "CHASSIS CABINE LONG TYPE 14"
+    },
+    {
+     "val": "B0D6F",
+     "lib": "CHASSIS CABINE LONG TYPE 16"
+    },
+    {
+     "val": "B0D6G",
+     "lib": "CHASSIS CABINE LONG TYPE 16H"
+    },
+    {
+     "val": "B0D6H",
+     "lib": "CHASSIS CABINE LONG TYPE 20H"
+    },
+    {
+     "val": "B0D9D",
+     "lib": "CHASSIS CABINE MOY-LON TYPE 12"
+    },
+    {
+     "val": "B0D9E",
+     "lib": "CHASSIS CABINE MOY-LON TYPE 14"
+    },
+    {
+     "val": "B0D9F",
+     "lib": "CHASSIS CABINE MOY-LON TYPE 16"
+    },
+    {
+     "val": "B0D9G",
+     "lib": "CHASSIS CABINE MOY-LON TYPE 16H"
+    },
+    {
+     "val": "B0D9H",
+     "lib": "CHASSIS CABINE MOY-LON TYPE 20H"
+    },
+    {
+     "val": "B0D4D",
+     "lib": "CHASSIS CABINE MOYEN TYPE 12"
+    },
+    {
+     "val": "B0D4E",
+     "lib": "CHASSIS CABINE MOYEN TYPE 14"
+    },
+    {
+     "val": "B0D4F",
+     "lib": "CHASSIS CABINE MOYEN TYPE 16"
+    },
+    {
+     "val": "B0D4G",
+     "lib": "CHASSIS CABINE MOYEN TYPE 16H"
+    },
+    {
+     "val": "B0D4H",
+     "lib": "CHASSIS CABINE MOYEN TYPE 20H"
+    },
+    {
+     "val": "B0D8F",
+     "lib": "CHASSIS CABINE RALLONGE TYPE 16"
+    },
+    {
+     "val": "B0D8G",
+     "lib": "CHASSIS CABINE RALLONGE TYPE 16H"
+    },
+    {
+     "val": "B0D8H",
+     "lib": "CHASSIS CABINE RALLONGE TYPE 20H"
+    },
+    {
+     "val": "B0D6W",
+     "lib": "CHASSIS DOUBLE CABINE LONG TYPE 14"
+    },
+    {
+     "val": "B0D6X",
+     "lib": "CHASSIS DOUBLE CABINE LONG TYPE 16"
+    },
+    {
+     "val": "B0D6Y",
+     "lib": "CHASSIS DOUBLE CABINE LONG TYPE 16H"
+    },
+    {
+     "val": "B0D6Z",
+     "lib": "CHASSIS DOUBLE CABINE LONG TYPE 20H"
+    },
+    {
+     "val": "B0D4W",
+     "lib": "CHASSIS DOUBLE CABINE MOYEN TYPE 14"
+    },
+    {
+     "val": "B0D4X",
+     "lib": "CHASSIS DOUBLE CABINE MOYEN TYPE 16"
+    },
+    {
+     "val": "B0D4Y",
+     "lib": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H"
+    },
+    {
+     "val": "B0D4Z",
+     "lib": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H"
+    },
+    {
+     "val": "B0D8Y",
+     "lib": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H"
+    },
+    {
+     "val": "B0D8Z",
+     "lib": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H"
+    },
+    {
+     "val": "B0D2J",
+     "lib": "CHASSIS NU COURT TYPE 16"
+    },
+    {
+     "val": "B0D6I",
+     "lib": "CHASSIS NU LONG TYPE 14"
+    },
+    {
+     "val": "B0D6J",
+     "lib": "CHASSIS NU LONG TYPE 16"
+    },
+    {
+     "val": "B0D6K",
+     "lib": "CHASSIS NU LONG TYPE 16H"
+    },
+    {
+     "val": "B0D6L",
+     "lib": "CHASSIS NU LONG TYPE 20H"
+    },
+    {
+     "val": "B0D9I",
+     "lib": "CHASSIS NU MOY-LONG TYPE 14"
+    },
+    {
+     "val": "B0D9J",
+     "lib": "CHASSIS NU MOY-LONG TYPE 16"
+    },
+    {
+     "val": "B0D9K",
+     "lib": "CHASSIS NU MOY-LONG TYPE 16H"
+    },
+    {
+     "val": "B0D4J",
+     "lib": "CHASSIS NU MOYEN TYPE 16"
+    },
+    {
+     "val": "B0D4K",
+     "lib": "CHASSIS NU MOYEN TYPE 16H"
+    },
+    {
+     "val": "B0D4L",
+     "lib": "CHASSIS NU MOYEN TYPE 20H"
+    },
+    {
+     "val": "B0D8J",
+     "lib": "CHASSIS NU RALLONGE TYPE 16"
+    },
+    {
+     "val": "B0D8K",
+     "lib": "CHASSIS NU RALLONGE TYPE 16H"
+    },
+    {
+     "val": "B0D8L",
+     "lib": "CHASSIS NU RALLONGE TYPE 20H"
+    },
+    {
+     "val": "B0D1D",
+     "lib": "FOURGON COURT H1 TYPE 12"
+    },
+    {
+     "val": "B0D1E",
+     "lib": "FOURGON COURT H1 TYPE 14"
+    },
+    {
+     "val": "B0D1F",
+     "lib": "FOURGON COURT H1 TYPE 16"
+    },
+    {
+     "val": "B0D1I",
+     "lib": "FOURGON COURT H2 TYPE 12"
+    },
+    {
+     "val": "B0D1J",
+     "lib": "FOURGON COURT H2 TYPE 14"
+    },
+    {
+     "val": "B0D1K",
+     "lib": "FOURGON COURT H2 TYPE 16"
+    },
+    {
+     "val": "B0D5J",
+     "lib": "FOURGON LONG H2 TYPE 14"
+    },
+    {
+     "val": "B0D5K",
+     "lib": "FOURGON LONG H2 TYPE 16"
+    },
+    {
+     "val": "B0D5L",
+     "lib": "FOURGON LONG H2 TYPE 16H"
+    },
+    {
+     "val": "B0D5M",
+     "lib": "FOURGON LONG H2 TYPE 20H"
+    },
+    {
+     "val": "B0D61",
+     "lib": "FOURGON LONG H3 TYPE 14"
+    },
+    {
+     "val": "B0D5N",
+     "lib": "FOURGON LONG H3 TYPE 16"
+    },
+    {
+     "val": "B0D5O",
+     "lib": "FOURGON LONG H3 TYPE 16H"
+    },
+    {
+     "val": "B0D5P",
+     "lib": "FOURGON LONG H3 TYPE 20H"
+    },
+    {
+     "val": "B0D3D",
+     "lib": "FOURGON MOYEN H1 TYPE 12"
+    },
+    {
+     "val": "B0D3E",
+     "lib": "FOURGON MOYEN H1 TYPE 14"
+    },
+    {
+     "val": "B0D3F",
+     "lib": "FOURGON MOYEN H1 TYPE 16"
+    },
+    {
+     "val": "B0D3G",
+     "lib": "FOURGON MOYEN H1 TYPE 16H"
+    },
+    {
+     "val": "B0D3I",
+     "lib": "FOURGON MOYEN H2 TYPE 12"
+    },
+    {
+     "val": "B0D3J",
+     "lib": "FOURGON MOYEN H2 TYPE 14"
+    },
+    {
+     "val": "B0D3K",
+     "lib": "FOURGON MOYEN H2 TYPE 16"
+    },
+    {
+     "val": "B0D3L",
+     "lib": "FOURGON MOYEN H2 TYPE 16H"
+    },
+    {
+     "val": "B0D3M",
+     "lib": "FOURGON MOYEN H2 TYPE 20H"
+    },
+    {
+     "val": "B0D7L",
+     "lib": "FOURGON RALLONGE H2 TYPE 16H"
+    },
+    {
+     "val": "B0D7M",
+     "lib": "FOURGON RALLONGE H2 TYPE 20H"
+    },
+    {
+     "val": "B0D7O",
+     "lib": "FOURGON RALLONGE H3 TYPE 16H"
+    },
+    {
+     "val": "B0D7P",
+     "lib": "FOURGON RALLONGE H3 TYPE 20H"
+    },
+    {
+     "val": "B0D14",
+     "lib": "FOURGON SEMI VITRE COURT H1 TYPE 12"
+    },
+    {
+     "val": "B0D15",
+     "lib": "FOURGON SEMI VITRE COURT H1 TYPE 14"
+    },
+    {
+     "val": "B0D16",
+     "lib": "FOURGON SEMI VITRE COURT H1 TYPE 16"
+    },
+    {
+     "val": "B0D57",
+     "lib": "FOURGON SEMI VITRE LONG H2 TYPE 14"
+    },
+    {
+     "val": "B0D58",
+     "lib": "FOURGON SEMI VITRE LONG H2 TYPE 16"
+    },
+    {
+     "val": "B0D59",
+     "lib": "FOURGON SEMI VITRE LONG H2 TYPE 16H"
+    },
+    {
+     "val": "B0D6A",
+     "lib": "FOURGON SEMI VITRE LONG H2 TYPE 20H"
+    },
+    {
+     "val": "B0D37",
+     "lib": "FOURGON SEMI VITRE MOYEN H2 TYPE 14"
+    },
+    {
+     "val": "B0D38",
+     "lib": "FOURGON SEMI VITRE MOYEN H2 TYPE 16"
+    },
+    {
+     "val": "B0D39",
+     "lib": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H"
+    },
+    {
+     "val": "B0D4A",
+     "lib": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H"
+    },
+    {
+     "val": "B0D1C",
+     "lib": "FOURGON TOLE COURT H1 TYPE 10"
+    },
+    {
+     "val": "B0D1R",
+     "lib": "FOURGON VITRE COURT H1 TYPE 12"
+    },
+    {
+     "val": "B0D1S",
+     "lib": "FOURGON VITRE COURT H1 TYPE 14"
+    },
+    {
+     "val": "B0D1T",
+     "lib": "FOURGON VITRE COURT H1 TYPE 16"
+    },
+    {
+     "val": "B0D1V",
+     "lib": "FOURGON VITRE COURT H2 TYPE 14"
+    },
+    {
+     "val": "B0D5V",
+     "lib": "FOURGON VITRE LONG H2 TYPE 14"
+    },
+    {
+     "val": "B0D5W",
+     "lib": "FOURGON VITRE LONG H2 TYPE 16"
+    },
+    {
+     "val": "B0D5X",
+     "lib": "FOURGON VITRE LONG H2 TYPE 16H"
+    },
+    {
+     "val": "B0D5Y",
+     "lib": "FOURGON VITRE LONG H2 TYPE 20H"
+    },
+    {
+     "val": "B0D5Z",
+     "lib": "FOURGON VITRE LONG H3 TYPE 14"
+    },
+    {
+     "val": "B0D51",
+     "lib": "FOURGON VITRE LONG H3 TYPE 16"
+    },
+    {
+     "val": "B0D52",
+     "lib": "FOURGON VITRE LONG H3 TYPE 16H"
+    },
+    {
+     "val": "B0D53",
+     "lib": "FOURGON VITRE LONG H3 TYPE 20H"
+    },
+    {
+     "val": "B0D3R",
+     "lib": "FOURGON VITRE MOYEN H1 TYPE 12"
+    },
+    {
+     "val": "B0D3S",
+     "lib": "FOURGON VITRE MOYEN H1 TYPE 14"
+    },
+    {
+     "val": "B0D3T",
+     "lib": "FOURGON VITRE MOYEN H1 TYPE 16"
+    },
+    {
+     "val": "B0D3V",
+     "lib": "FOURGON VITRE MOYEN H2 TYPE 14"
+    },
+    {
+     "val": "B0D3W",
+     "lib": "FOURGON VITRE MOYEN H2 TYPE 16"
+    },
+    {
+     "val": "B0D3X",
+     "lib": "FOURGON VITRE MOYEN H2 TYPE 16H"
+    },
+    {
+     "val": "B0D3Y",
+     "lib": "FOURGON VITRE MOYEN H2 TYPE 20H"
+    },
+    {
+     "val": "B0D7X",
+     "lib": "FOURGON VITRE RALLONGE H2 TYPE 16H"
+    },
+    {
+     "val": "B0D7Y",
+     "lib": "FOURGON VITRE RALLONGE H2 TYPE 20H"
+    },
+    {
+     "val": "B0D0J",
+     "lib": "MOTRICE NUE TYPE 16"
+    },
+    {
+     "val": "B0D0K",
+     "lib": "MOTRICE NUE TYPE 16H"
+    },
+    {
+     "val": "B0D0L",
+     "lib": "MOTRICE NUE TYPE 20H"
+    },
+    {
+     "val": "B0D2P",
+     "lib": "PLANCHER CABINE COURT TYPE 14"
+    },
+    {
+     "val": "B0D2Q",
+     "lib": "PLANCHER CABINE COURT TYPE 16"
+    },
+    {
+     "val": "B0D6P",
+     "lib": "PLANCHER CABINE LONG TYPE 14"
+    },
+    {
+     "val": "B0D6Q",
+     "lib": "PLANCHER CABINE LONG TYPE 16"
+    },
+    {
+     "val": "B0D6R",
+     "lib": "PLANCHER CABINE LONG TYPE 16H"
+    },
+    {
+     "val": "B0D6S",
+     "lib": "PLANCHER CABINE LONG TYPE 20H"
+    },
+    {
+     "val": "B0D9P",
+     "lib": "PLANCHER CABINE MOY-LON TYPE 14"
+    },
+    {
+     "val": "B0D4O",
+     "lib": "PLANCHER CABINE MOYEN TYPE 12"
+    },
+    {
+     "val": "B0D4P",
+     "lib": "PLANCHER CABINE MOYEN TYPE 14"
+    },
+    {
+     "val": "B0D4Q",
+     "lib": "PLANCHER CABINE MOYEN TYPE 16"
+    },
+    {
+     "val": "B0D4R",
+     "lib": "PLANCHER CABINE MOYEN TYPE 16H"
+    },
+    {
+     "val": "B0D4S",
+     "lib": "PLANCHER CABINE MOYEN TYPE 20H"
+    },
+    {
+     "val": "B0D8Q",
+     "lib": "PLANCHER CABINE RALLONGE TYPE 16"
+    },
+    {
+     "val": "B0D8R",
+     "lib": "PLANCHER CABINE RALLONGE TYPE 16H"
+    },
+    {
+     "val": "B0D8S",
+     "lib": "PLANCHER CABINE RALLONGE TYPE 20H"
+    },
+    {
+     "val": "B0D6T",
+     "lib": "PLANCHER NU LONG TYPE 16"
+    },
+    {
+     "val": "B0D6U",
+     "lib": "PLANCHER NU LONG TYPE 16H"
+    },
+    {
+     "val": "B0D6V",
+     "lib": "PLANCHER NU LONG TYPE 20H"
+    },
+    {
+     "val": "B0D4U",
+     "lib": "PLANCHER NU MOYEN TYPE 16H"
+    },
+    {
+     "val": "B0D4V",
+     "lib": "PLANCHER NU MOYEN TYPE 20H"
+    },
+    {
+     "val": "B0D8U",
+     "lib": "PLANCHER NU RALLONGE TYPE 16H"
+    },
+    {
+     "val": "B0D8V",
+     "lib": "PLANCHER NU RALLONGE TYPE 20H"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FDE",
+     "lib": "2.2 HDI 100 PUMA"
+    },
+    {
+     "val": "B0FDP",
+     "lib": "2.2 HDI 110 PUMA C"
+    },
+    {
+     "val": "B0FDG",
+     "lib": "2.2 HDI 120 PUMA"
+    },
+    {
+     "val": "B0FDH",
+     "lib": "2.2 HDI 130 PUMA"
+    },
+    {
+     "val": "B0FDQ",
+     "lib": "2.2 HDI 130 PUMA C"
+    },
+    {
+     "val": "B0FDR",
+     "lib": "2.2 HDI 150 PUMA C"
+    },
+    {
+     "val": "B0FDN",
+     "lib": "3.0 HDI 145 FAP EURO 5"
+    },
+    {
+     "val": "B0FDF",
+     "lib": "3.0 HDI 160"
+    },
+    {
+     "val": "B0FDJ",
+     "lib": "3.0 HDI 160 FAP"
+    },
+    {
+     "val": "B0FDL",
+     "lib": "3.0 HDI 160 FAP EURO 5"
+    },
+    {
+     "val": "B0FDS",
+     "lib": "3.0 HDI 175 FAP EURO 5"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0D0E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D0E",
+    "B0F": "B0FDE"
+   },
+   "label": "CABINE MOTRICE TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D0E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D0E",
+    "B0F": "B0FDP"
+   },
+   "label": "CABINE MOTRICE TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0E",
+    "B0F": "B0FDG"
+   },
+   "label": "CABINE MOTRICE TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0E",
+    "B0F": "B0FDF"
+   },
+   "label": "CABINE MOTRICE TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDG"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDH"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDR"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDF"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D0F",
+    "B0F": "B0FDS"
+   },
+   "label": "CABINE MOTRICE TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDG"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDQ"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDR"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDN"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDF"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDJ"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D0G",
+    "B0F": "B0FDS"
+   },
+   "label": "CABINE MOTRICE TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDG"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDQ"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDR"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDF"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDJ"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDL"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0H&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D0H",
+    "B0F": "B0FDS"
+   },
+   "label": "CABINE MOTRICE TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D2D&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D2D",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D2E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D2E",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D2F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D2F",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE COURT TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6E",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6F",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDN"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6G",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDL"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6H&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6H",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE LONG TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9D&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D9D",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D9D&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D9D",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D9E",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D9F",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D9G",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9H&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D9H",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOY-LON TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4D&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4D",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4E",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDH",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDH"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 130 PUMA"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4F",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4G",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4H&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4H",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE MOYEN TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8F",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDN"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8G",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDL"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8H&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8H",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS CABINE RALLONGE TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6W&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6W",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6X&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6X",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDN"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6Y",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6Z&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6Z",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE LONG TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4W&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4W",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDP"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4X&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4X",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4Y",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4Z&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4Z",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE MOYEN TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDN"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8Y",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDL"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8Z&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8Z",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS DOUBLE CABINE RALLONGE TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D2J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2J",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU COURT TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2J",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU COURT TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2J",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU COURT TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2J",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU COURT TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6I&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6I",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU LONG TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6I&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6I",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU LONG TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6J",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS NU LONG TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6K",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6K&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6K",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU LONG TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6K&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6K",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU LONG TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6K",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6K",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU LONG TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6L",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU LONG TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6L",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU LONG TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6L",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU LONG TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9I&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D9I",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D9J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D9J",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9K",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D9K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D9K",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D9K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D9K",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU MOY-LONG TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4J",
+    "B0F": "B0FDS"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4K",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4K",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4K",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4L",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4L",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4L",
+    "B0F": "B0FDJ"
+   },
+   "label": "CHASSIS NU MOYEN TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D8J",
+    "B0F": "B0FDE"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D8J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8J",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8J",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8J",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8K",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8K",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8L",
+    "B0F": "B0FDG"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8L&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8L",
+    "B0F": "B0FDQ"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8L&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8L",
+    "B0F": "B0FDR"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8L",
+    "B0F": "B0FDF"
+   },
+   "label": "CHASSIS NU RALLONGE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1D&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1D",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H1 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1E",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H1 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1F",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H1 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1I&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1I",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H2 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1J",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1K&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1K",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON COURT H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5J",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5K&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5K",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5L&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5L",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5M&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5M",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D61&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D61",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H3 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5N&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5N",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H3 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5O&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5O",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H3 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5P&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5P",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON LONG H3 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3D&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3D",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3E&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3E",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3F&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3F",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3G&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3G",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H1 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3I&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3I",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3J&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3J",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3K&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3K",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3L&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3L",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3M&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3M",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON MOYEN H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7L&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7L",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDL"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7M&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7M",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON RALLONGE H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7O&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7O",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDL"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7P&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7P",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON RALLONGE H3 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D14&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D14",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D15&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D15",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D16&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D16",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE COURT H1 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D57&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D57",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D58&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D58",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D59&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D59",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6A&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6A",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE LONG H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D37&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D37",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D38&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D38",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D39&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D39",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4A&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4A",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON SEMI VITRE MOYEN H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1C&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1C",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON TOLE COURT H1 TYPE 10 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1C&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1C",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON TOLE COURT H1 TYPE 10 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1R&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1R",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1S&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1S",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D1T&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D1T",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE COURT H1 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D1V&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D1V",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE COURT H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5V&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5V",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5W&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5W",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5X&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5X",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDL"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5Y",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D5Z&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D5Z",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D51&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D51",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D52&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D52",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D53&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D53",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D53&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D53",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D53&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D53",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D53&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D53",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D53&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D53",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE LONG H3 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3R&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3R",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3S&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3S",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3T&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3T",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H1 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3V&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3V",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDE"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDP"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3W&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3W",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDN"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3X&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3X",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D3Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D3Y",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE MOYEN H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7X&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7X",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDG"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDQ"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDR"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDF"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDJ"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDL",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDL"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 3.0 HDI 160 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D7Y&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D7Y",
+    "B0F": "B0FDS"
+   },
+   "label": "FOURGON VITRE RALLONGE H2 TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0J&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D0J",
+    "B0F": "B0FDE"
+   },
+   "label": "MOTRICE NUE TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D0J&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0J",
+    "B0F": "B0FDG"
+   },
+   "label": "MOTRICE NUE TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0J&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0J",
+    "B0F": "B0FDF"
+   },
+   "label": "MOTRICE NUE TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0J&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0J",
+    "B0F": "B0FDJ"
+   },
+   "label": "MOTRICE NUE TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0K&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0K",
+    "B0F": "B0FDG"
+   },
+   "label": "MOTRICE NUE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0K&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0K",
+    "B0F": "B0FDF"
+   },
+   "label": "MOTRICE NUE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0K&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0K",
+    "B0F": "B0FDJ"
+   },
+   "label": "MOTRICE NUE TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0K&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D0K",
+    "B0F": "B0FDS"
+   },
+   "label": "MOTRICE NUE TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D0L&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D0L",
+    "B0F": "B0FDG"
+   },
+   "label": "MOTRICE NUE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D0L&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D0L",
+    "B0F": "B0FDF"
+   },
+   "label": "MOTRICE NUE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D0L&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D0L",
+    "B0F": "B0FDJ"
+   },
+   "label": "MOTRICE NUE TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D0L&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D0L",
+    "B0F": "B0FDS"
+   },
+   "label": "MOTRICE NUE TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2P&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2P",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D2Q&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D2Q",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6P&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6P",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6Q&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6Q",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDN"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6R&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6R",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D6S&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D6S",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE LONG TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D9P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D9P",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOY-LON TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4O&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4O",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 12 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4P&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4P",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 14 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4Q&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4Q",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4R&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4R",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D4S&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D4S",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE MOYEN TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDE",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDE"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 2.2 HDI 100 PUMA"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDP",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDP"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 2.2 HDI 110 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8Q&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8Q",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16 · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDN",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDN"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 3.0 HDI 145 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8R&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8R",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 16H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDQ",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDQ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 2.2 HDI 130 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDR",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDR"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 2.2 HDI 150 PUMA C"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDJ",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDJ"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 3.0 HDI 160 FAP"
+  },
+  {
+   "key": "B0D=B0D8S&B0F=B0FDS",
+   "selections": {
+    "B0D": "B0D8S",
+    "B0F": "B0FDS"
+   },
+   "label": "PLANCHER CABINE RALLONGE TYPE 20H · 3.0 HDI 175 FAP EURO 5"
+  },
+  {
+   "key": "B0D=B0D6T&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6T",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU LONG TYPE 16 · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6U&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6U",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU LONG TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6U&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6U",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU LONG TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D6V&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D6V",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU LONG TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D6V&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D6V",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU LONG TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4U&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4U",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU MOYEN TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4U&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4U",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU MOYEN TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D4V&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D4V",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU MOYEN TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D4V&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D4V",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU MOYEN TYPE 20H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8U&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8U",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU RALLONGE TYPE 16H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8U&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8U",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU RALLONGE TYPE 16H · 3.0 HDI 160"
+  },
+  {
+   "key": "B0D=B0D8V&B0F=B0FDG",
+   "selections": {
+    "B0D": "B0D8V",
+    "B0F": "B0FDG"
+   },
+   "label": "PLANCHER NU RALLONGE TYPE 20H · 2.2 HDI 120 PUMA"
+  },
+  {
+   "key": "B0D=B0D8V&B0F=B0FDF",
+   "selections": {
+    "B0D": "B0D8V",
+    "B0F": "B0FDF"
+   },
+   "label": "PLANCHER NU RALLONGE TYPE 20H · 3.0 HDI 160"
+  }
+ ]
+}

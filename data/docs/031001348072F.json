@@ -1,0 +1,88 @@
+{
+ "ref": "031001348072F",
+ "refDisplay": "0310 01 348072F",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6G&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8G&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Y&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5L&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5O&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7L&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7O&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6R&B0F=B0FDN",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8R&B0F=B0FDN",
+   "fctId": "FCT0049"
+  }
+ ]
+}

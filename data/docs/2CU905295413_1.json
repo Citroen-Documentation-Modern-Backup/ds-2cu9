@@ -1,0 +1,79 @@
+{
+ "ref": "2CU905295413_1",
+ "refDisplay": "2CU9 0 529 5413",
+ "title": "FAISCEAU JAUGE CARBURANT",
+ "nature": "",
+ "applicability": "(J0H3) JUMPER III CHASSIS DOUBLE CABINE MOYEN TYPE 14 DIESEL TURBO PUMA 22DT 120CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4W&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D1J&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7P&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D58&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9P&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Q&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8S&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8U&B0F=B0FDG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8V&B0F=B0FDG",
+   "fctId": "FCT0310"
+  }
+ ]
+}

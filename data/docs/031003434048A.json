@@ -1,0 +1,48 @@
+{
+ "ref": "031003434048A",
+ "refDisplay": "0310 03 434048A",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "CHARGE UTILE LOURDE 20Q ET SUSPENSION METALLIQUE JUSQU’A DATE 20110331 SAUF LOISIRS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0F&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6E&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6F&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9E&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D9F&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4E&B0F=B0FDH",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4F&B0F=B0FDH",
+   "fctId": "FCT0028"
+  }
+ ]
+}

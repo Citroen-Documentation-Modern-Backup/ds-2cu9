@@ -1,0 +1,79 @@
+{
+ "ref": "2CU90351630_6",
+ "refDisplay": "2CU9 0 35 1630",
+ "title": "4 PORTES INJECTEURS",
+ "nature": "",
+ "applicability": "(J0M5) JUMPER III FOURGON SEMI VITRE MOYEN H2 TYPE 14 DIESEL TURBO PUMA C 96 EURO5 130CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4A&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDR",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "ref": "2CU9022051B_3",
+ "refDisplay": "2CU9 0 22 051B",
+ "title": "TUBE ECHANGEUR A BOITIER EAU",
+ "nature": "",
+ "applicability": "(J0KU) JUMPER III CHASSIS DOUBLE CABINE RALLONGE TYPE 20H DIESEL TURBO PUMA C 110 EURO5 150CV BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5P&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3M&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3M&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D16&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D57&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D58&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D59&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6A&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D37&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D38&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D4A&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5V&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5W&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5X&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Z&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D51&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D52&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D53&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3R&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3R&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3R&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3S&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3S&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3T&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3T&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3T&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3W&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3Y&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7X&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Q&B0F=B0FDP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Q&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Q&B0F=B0FDR",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8R&B0F=B0FDQ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8R&B0F=B0FDR",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "ref": "031005501203A",
+ "refDisplay": "0310 05 501203A",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0G&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D0H&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6G&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6H&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8G&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8H&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6Y&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Y&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8Z&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5L&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5O&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3G&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3L&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7L&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7M&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7O&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7P&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D39&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D5Y&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D3X&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D7Y&B0F=B0FDL",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D6R&B0F=B0FDN",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU9",
+   "variantKey": "B0D=B0D8R&B0F=B0FDN",
+   "fctId": "FCT0308"
+  }
+ ]
+}
